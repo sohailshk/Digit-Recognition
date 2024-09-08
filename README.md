@@ -57,6 +57,10 @@ The model was trained on the MNIST dataset using data augmentation techniques. T
 - Accuracy on test set: 98.7%
 - Training time: Approximately 2 minutes on Google Colab GPU
 
+##SCREENSHOT
+![image](https://github.com/user-attachments/assets/7e10aaa1-f83b-45c4-b1ff-904621a89222)
+
+
 
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your changes.
