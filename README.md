@@ -6,7 +6,7 @@ This project implements a Convolutional Neural Network (CNN) to recognize handwr
 ## Features
 - Interactive web-based drawing interface
 - Real-time digit recognition
-- High accuracy (98.7%) on the MNIST dataset
+- High accuracy (98.94%) on the MNIST dataset
 - Responsive design for various devices
 - Easy-to-use clear and predict functionality
 
