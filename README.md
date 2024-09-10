@@ -1,7 +1,7 @@
 # Handwritten Digit Recognition Project
 
 ## Overview
-This project implements a Convolutional Neural Network (CNN) to recognize handwritten digits with an impressive 98.7% accuracy. It includes a web-based interface for real-time digit recognition, allowing users to draw digits and receive instant predictions.
+This project implements a Convolutional Neural Network (CNN) to recognize handwritten digits with an impressive 98.84% accuracy. It includes a web-based interface for real-time digit recognition, allowing users to draw digits and receive instant predictions.
 
 ## Features
 - Interactive web-based drawing interface
